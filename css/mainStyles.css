@@ -1,12 +1,7 @@
 .jumbotron{
   margin:80px;
   border-radius:10px;
-    background: 
-linear-gradient(
-  rgba(0, 0, 250, 0.25), 
-  rgba(125, 250, 250, 0.45)
-),
-url(./img/icslogo.png);
+    background-image: url(./img/icslogo.png);
 background-repeat: no-repeat;
 background-attachment: fixed;
 color:white !important;
